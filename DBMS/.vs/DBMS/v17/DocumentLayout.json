@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|c:\\users\\mun\\source\\repos\\project-dbms\\dbms-nn\\dbms\\dbms\\mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|c:\\users\\mun\\source\\repos\\project-dbms\\dbms-nn\\dbms\\dbms\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|c:\\users\\mun\\source\\repos\\project-dbms\\dbms-nn\\dbms\\dbms\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|c:\\users\\mun\\source\\repos\\project-dbms\\dbms-nn\\dbms\\dbms\\taikhoantichdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\taikhoantichdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|c:\\users\\mun\\source\\repos\\project-dbms\\dbms-nn\\dbms\\dbms\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|c:\\users\\mun\\source\\repos\\project-dbms\\dbms-nn\\dbms\\dbms\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\dbms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|c:\\users\\mun\\source\\repos\\project-dbms\\dbms-nn\\dbms\\dbms\\tichdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\tichdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|c:\\users\\mun\\source\\repos\\project-dbms\\dbms-nn\\dbms\\dbms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|c:\\users\\mun\\source\\repos\\project-dbms\\dbms-nn\\dbms\\dbms\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\dbms\\addtktichdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\addtktichdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\dbms\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\dbms\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\dbms\\addtktichdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\addtktichdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\product.cs",
+              "RelativeDocumentMoniker": "DBMS\\product.cs",
+              "ToolTip": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\product.cs",
+              "RelativeToolTip": "DBMS\\product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:53:32.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "listProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\listProduct.cs",
+              "RelativeDocumentMoniker": "DBMS\\listProduct.cs",
+              "ToolTip": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\listProduct.cs [Design]",
+              "RelativeToolTip": "DBMS\\listProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:40:36.28Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "taikhoantichdiem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\taikhoantichdiem.cs",
+              "RelativeDocumentMoniker": "DBMS\\taikhoantichdiem.cs",
+              "ToolTip": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\taikhoantichdiem.cs [Design]",
+              "RelativeToolTip": "DBMS\\taikhoantichdiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:40:31.569Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "nhapHang.cs",
+              "DocumentMoniker": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\nhapHang.cs",
+              "RelativeDocumentMoniker": "DBMS\\nhapHang.cs",
+              "ToolTip": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\nhapHang.cs",
+              "RelativeToolTip": "DBMS\\nhapHang.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAEwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:03:08.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nhapHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\nhapHang.cs",
+              "RelativeDocumentMoniker": "DBMS\\nhapHang.cs",
+              "ToolTip": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\nhapHang.cs [Design]",
+              "RelativeToolTip": "DBMS\\nhapHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:48:15.444Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mydb.cs",
+              "DocumentMoniker": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\mydb.cs",
+              "RelativeDocumentMoniker": "DBMS\\mydb.cs",
+              "ToolTip": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\mydb.cs",
+              "RelativeToolTip": "DBMS\\mydb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:43:32.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "listProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\listProduct.cs",
+              "RelativeDocumentMoniker": "DBMS\\listProduct.cs",
+              "ToolTip": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\listProduct.cs",
+              "RelativeToolTip": "DBMS\\listProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:51:14.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\Form1.cs",
+              "RelativeDocumentMoniker": "DBMS\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\Form1.cs [Design]",
+              "RelativeToolTip": "DBMS\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:47:22.558Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\Program.cs",
+              "RelativeDocumentMoniker": "DBMS\\Program.cs",
+              "ToolTip": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\Program.cs",
+              "RelativeToolTip": "DBMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:42:43.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "tichdiem.cs",
+              "DocumentMoniker": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\tichdiem.cs",
+              "RelativeDocumentMoniker": "DBMS\\tichdiem.cs",
+              "ToolTip": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\tichdiem.cs",
+              "RelativeToolTip": "DBMS\\tichdiem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:42:43.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "addTktichdiem.cs",
+              "DocumentMoniker": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\addTktichdiem.cs",
+              "RelativeDocumentMoniker": "DBMS\\addTktichdiem.cs",
+              "ToolTip": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\addTktichdiem.cs",
+              "RelativeToolTip": "DBMS\\addTktichdiem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:42:43.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "addProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\addProduct.cs",
+              "RelativeDocumentMoniker": "DBMS\\addProduct.cs",
+              "ToolTip": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\addProduct.cs",
+              "RelativeToolTip": "DBMS\\addProduct.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAzwDcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:42:43.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "addProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\addProduct.cs",
+              "RelativeDocumentMoniker": "DBMS\\addProduct.cs",
+              "ToolTip": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\addProduct.cs [Design]",
+              "RelativeToolTip": "DBMS\\addProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:42:43.825Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "addTktichdiem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\addTktichdiem.cs",
+              "RelativeDocumentMoniker": "DBMS\\addTktichdiem.cs",
+              "ToolTip": "C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-nn\\DBMS\\DBMS\\addTktichdiem.cs [Design]",
+              "RelativeToolTip": "DBMS\\addTktichdiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:42:43.825Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
