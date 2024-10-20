@@ -25,3 +25,5 @@ D:\phuhao\DBMS\DBMS\DBMS\obj\Debug\DBMS.csproj.GenerateResource.cache
 D:\phuhao\DBMS\DBMS\DBMS\obj\Debug\DBMS.csproj.CoreCompileInputs.cache
 D:\phuhao\DBMS\DBMS\DBMS\obj\Debug\DBMS.exe
 D:\phuhao\DBMS\DBMS\DBMS\obj\Debug\DBMS.pdb
+D:\phuhao\DBMS\DBMS\DBMS\obj\Debug\DBMS.taohoadonmuahang.resources
+D:\phuhao\DBMS\DBMS\DBMS\obj\Debug\DBMS.hoadonmua.resources

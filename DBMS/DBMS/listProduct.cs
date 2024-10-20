@@ -28,12 +28,7 @@ namespace DBMS
            //phuhao sua ơ đây
       
         }
-
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
-
+        
         private void button1_Click(object sender, EventArgs e)
         {
             addProduct addProduct = new addProduct();

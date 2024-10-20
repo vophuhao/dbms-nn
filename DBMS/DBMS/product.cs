@@ -25,6 +25,25 @@ namespace DBMS
             mydataAdapter.Fill(dt);
             return dt;
         }
-        
+        public DataTable LaySanPhamTheoPhanLoai(string phanloai)
+        {
+            mydb.openConnection();
+            SqlCommand sqlCommand = new SqlCommand("select * from dbo.LaySanPhamTheoPhamLoai(@phanLoai)", mydb.getConnection);
+            sqlCommand.Parameters.AddWithValue("@phanLoai", phanloai);
+            SqlDataAdapter mydataAdapter = new SqlDataAdapter(sqlCommand);
+            DataTable dt = new DataTable();
+            mydataAdapter.Fill(dt);
+            return dt;
+        }
+        public DataTable LaySanPhamTheoTen(string tensp)
+        {
+            mydb.openConnection();
+            SqlCommand sqlCommand = new SqlCommand("select * from dbo.LaySanPhamTheoTen(@tenSP)", mydb.getConnection);
+            sqlCommand.Parameters.AddWithValue("@tenSP", tensp);
+            SqlDataAdapter mydataAdapter = new SqlDataAdapter(sqlCommand);
+            DataTable dt = new DataTable();
+            mydataAdapter.Fill(dt);
+            return dt;
+        }
     }
 }

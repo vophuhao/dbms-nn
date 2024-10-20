@@ -34,7 +34,7 @@ namespace DBMS
             string name=textBoxName.Text;
             string price=textBoxPrice.Text;
             string des=textBoxDes.Text; 
-            string category=textBoxCategory.Text;
+            string category=textBoxPhanLoai.Text;
 
             MemoryStream pic = new MemoryStream();
 
@@ -47,8 +47,8 @@ namespace DBMS
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@Ten", name);
             cmd.Parameters.AddWithValue("@giaBan", price);
-            cmd.Parameters.AddWithValue("@phanloai", des);
-            cmd.Parameters.AddWithValue("@moTa", category);
+            cmd.Parameters.AddWithValue("@phanloai", category);
+            cmd.Parameters.AddWithValue("@moTa", des);
             cmd.Parameters.Add("@hinhAnh", SqlDbType.Image).Value = pic.ToArray();
 
             cmd.ExecuteNonQuery();
