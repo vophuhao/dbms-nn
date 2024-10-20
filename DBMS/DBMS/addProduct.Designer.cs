@@ -30,7 +30,7 @@
         {
             this.textBoxName = new System.Windows.Forms.TextBox();
             this.textBoxPrice = new System.Windows.Forms.TextBox();
-            this.textBoxCategory = new System.Windows.Forms.TextBox();
+            this.textBoxPhanLoai = new System.Windows.Forms.TextBox();
             this.textBoxDes = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -59,13 +59,13 @@
             this.textBoxPrice.Size = new System.Drawing.Size(243, 47);
             this.textBoxPrice.TabIndex = 1;
             // 
-            // textBoxCategory
+            // textBoxPhanLoai
             // 
-            this.textBoxCategory.Location = new System.Drawing.Point(235, 239);
-            this.textBoxCategory.Multiline = true;
-            this.textBoxCategory.Name = "textBoxCategory";
-            this.textBoxCategory.Size = new System.Drawing.Size(243, 48);
-            this.textBoxCategory.TabIndex = 2;
+            this.textBoxPhanLoai.Location = new System.Drawing.Point(235, 239);
+            this.textBoxPhanLoai.Multiline = true;
+            this.textBoxPhanLoai.Name = "textBoxPhanLoai";
+            this.textBoxPhanLoai.Size = new System.Drawing.Size(243, 48);
+            this.textBoxPhanLoai.TabIndex = 2;
             // 
             // textBoxDes
             // 
@@ -166,7 +166,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBoxDes);
-            this.Controls.Add(this.textBoxCategory);
+            this.Controls.Add(this.textBoxPhanLoai);
             this.Controls.Add(this.textBoxPrice);
             this.Controls.Add(this.textBoxName);
             this.Name = "addProduct";
@@ -181,7 +181,7 @@
 
         private System.Windows.Forms.TextBox textBoxName;
         private System.Windows.Forms.TextBox textBoxPrice;
-        private System.Windows.Forms.TextBox textBoxCategory;
+        private System.Windows.Forms.TextBox textBoxPhanLoai;
         private System.Windows.Forms.TextBox textBoxDes;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
